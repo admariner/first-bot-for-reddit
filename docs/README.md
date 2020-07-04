@@ -177,9 +177,9 @@ You can now start building up the bot to do more advanced actions of your choice
 
 Here are some suggestions of how to enhance the bot capabilities:
 
-- [ ] Add ability automatically mark inbox messages read
+- [ ] Add ability to automatically mark inbox messages read
 - [ ] Add ability to see messages from specific user
-- [ ] Add ability to send private messages to self or a friend
+- [ ] Add ability to send private messages to a friend
 
 * * * 
 
