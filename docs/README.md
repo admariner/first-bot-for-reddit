@@ -146,26 +146,21 @@ Following the instructions in the comments, add your `client ID`, `secret`, `use
 
 #### 3.2. Open `reddit_bot.py`
 
-This is the source code for the reddit bot. It is a simple class that can execute 
-specific actions on reddit. Just by reading through it you should get an idea of 
-its capabilities.
+This is the source code for the reddit bot. It is a simple class that can execute specific actions on reddit. Reading through it should give you an idea of its capabilities.
 
 #### 3.2. Open `run.py`
 
-This it the file that creates the robot, gives you an interface to interact with the robot
-and passes commands to the robot. It is not meant to be challenging you should get a good
-idea of what is happening if you briefly read through the code.
+This it the file that creates the bot, gives you an interface to interact with the bot and passes commands to the bot. Read through the code briefly to get an idea of the purpose of this script.
 
 #### 3.3. Execute `run.py`
 
-Now run the `run.py` script and see what you get 
+Now run the `run.py` script and observe the output in the terminal.
 
 ```
 python run.py
 ```
 
-Assuming you completed all steps correctly and nothing has changed in the Reddit API since the writing of these instructions, you should see
-some interesting output in the terminal!
+Assuming you completed all steps correctly and nothing has changed in the Reddit API since the writing of these instructions, you should see some interesting output in the terminal! Go ahead and interact with the bot.
 
 If you are seeing an Exception of any kind, double-check your steps. Make sure you have installed all dependencies and correctly configured your credentials in the `config.py` file.
 
@@ -177,9 +172,9 @@ You can now start building up the bot to do more advanced actions of your choice
 
 Here are some suggestions of how to enhance the bot capabilities:
 
-- [ ] Add ability to send private messages to self or a friend
-- [ ] Add ability mark inbox messages read
+- [ ] Add ability automatically mark inbox messages read
 - [ ] Add ability to see messages from specific user
+- [ ] Add ability to send private messages to self or a friend
 
 * * * 
 
@@ -187,7 +182,5 @@ Here are some suggestions of how to enhance the bot capabilities:
 
 Hopefully this tutorial was helpful! 
 
-We would like to make this tutorial better over time. If you had any issues following these instructions, 
-first [review existing issues](https://github.com/MobileFirstLLC/first-bot-for-reddit/issues/). If the
-issue you are having is not addressed there open a [new issue](https://github.com/MobileFirstLLC/first-bot-for-reddit/issues/new/choose). 
-Thank you in advance for your input.
+We would like to make this tutorial better over time. If you had any issues following these instructions, [review existing issues](https://github.com/MobileFirstLLC/first-bot-for-reddit/issues/). If the
+issue you are having is not addressed there open a [new issue](https://github.com/MobileFirstLLC/first-bot-for-reddit/issues/new/choose). Thank you for your input.
