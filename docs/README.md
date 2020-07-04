@@ -75,15 +75,7 @@ python3 -m venv env
 env\Scripts\activate.bat
 ```
 
-#### 1.3. Install Requirements
-
-Run this command in the terminal:
-
-```
-pip3 install -r requirements.txt
-```
-
-#### 1.4. For PyCharm users: Set project interpreter
+#### 1.3. For PyCharm users: Set project interpreter
 
 If you are using PyCharm and created the virtual environment from a terminal, make sure the project interpreter is set
 to point to that virtual environment:
@@ -93,6 +85,14 @@ to point to that virtual environment:
 - Click the cog icon in top right > `add`
 - Choose `existing environment` and check that it points to your virtual environment `.../.../first-bot-for-reddit/env/bin/python`
 - Click `OK`
+
+#### 1.4. Install Requirements
+
+Run this command in the terminal:
+
+```
+pip3 install -r requirements.txt
+```
 
 * * *
 
