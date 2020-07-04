@@ -1,7 +1,8 @@
 # My First Bot for Reddit
 
-![img](https://img.shields.io/static/v1?label=python&message=3%2B&color=4B8BBE) 
 ![img](https://img.shields.io/static/v1?label=&message=reddit&color=FF4500)
+![img](https://img.shields.io/static/v1?label=&message=%E2%99%A5%20bots&color=F50057)
+![img](https://img.shields.io/static/v1?label=python&message=3%2B&color=4B8BBE) 
 ![img](https://img.shields.io/github/v/release/mobilefirstllc/first-bot-for-reddit)
 
 ### This is an starter code + exercise for creating a simple bot for reddit. You can follow the steps below to create your own first bot for reddit!
