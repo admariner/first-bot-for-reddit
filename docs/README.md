@@ -20,7 +20,8 @@ bot knows how to perform:
 - **Reading hot posts** — Read trending posts from your favorite subreddits  
 - **Reading posts from specific subreddits** — Enter subreddit name and see what is hot in that subreddit
 - **Reading random post and replying** - Choose some subreddit and reply to random post from the terminal  
-- **Simple code** - easy to follow and good for beginners
+
+**Simple code:** easy to follow and ideal for beginners
 
 **Estimated duration:** 10 - 60 minutes
 
