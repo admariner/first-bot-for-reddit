@@ -78,7 +78,7 @@ class SimpleBot:
 
     def post_reply(self) -> None:
         """
-        This method gets top post from a specific
+        This method gets a random post from a specific
         subreddit, then prompts for reply and posts
         that reply
         :return:
