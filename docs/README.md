@@ -5,7 +5,7 @@
 ![img](https://img.shields.io/static/v1?label=python&message=3%2B&color=4B8BBE) 
 ![img](https://img.shields.io/github/v/release/mobilefirstllc/first-bot-for-reddit)
 
-### This is an starter code + exercise for creating a simple bot for reddit. You can follow the steps below to create your own first bot for reddit!
+### This is an starter code + exercise for creating a simple bot for reddit. You can follow the steps below to create your own bot for reddit!
 
 <p align="center">
 <img src="/docs/img/preview.gif" alt="preview gif" />
