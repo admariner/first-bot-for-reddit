@@ -64,7 +64,6 @@ https://github.com/MobileFirstLLC/first-bot-for-reddit.git
 #### 1.2. Create virtual environment 
 
 This step is optional but highly recommended.
-If you need help [see this doc](https://docs.python.org/3/tutorial/venv.html).
 
 **On Unix or MacOS, run:**
 
@@ -79,6 +78,8 @@ source env/bin/activate
 python3 -m venv env
 env\Scripts\activate.bat
 ```
+
+If you need more help [see this doc](https://docs.python.org/3/tutorial/venv.html).
 
 #### For PyCharm users: Set project interpreter
 
