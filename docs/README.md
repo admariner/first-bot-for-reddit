@@ -62,7 +62,8 @@ https://github.com/MobileFirstLLC/first-bot-for-reddit.git
 </p>
 
 If you do not have git installed locally or do not know how to use git, you can
-[download this zip file](https://github.com/MobileFirstLLC/first-bot-for-reddit/archive/master.zip)
+[download this zip file](https://github.com/MobileFirstLLC/first-bot-for-reddit/archive/master.zip).
+Then extract it and open the project in your favorite Python IDE.
 
 
 #### 1.2. Create virtual environment 
