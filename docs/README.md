@@ -19,8 +19,8 @@ This bot is built using Python 3 and [PRAW](https://github.com/praw-dev/praw), "
 ### Features
 
 This bot runs on the local machine from command line. It performs actions based on user
-commands, but it can be modified to perform autonomously. These are the specific actions this
-bot knows how to perform:
+commands, but it can be modified to perform autonomously (to make a _true_ bot, modify it to work autonomously). 
+These are the specific actions this bot knows how to perform:
 
 - **Reading hot posts** — Read trending posts from your favorite subreddits  
 - **Reading posts from specific subreddits** — Enter subreddit name and see what is hot in that subreddit
