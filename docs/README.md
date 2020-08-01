@@ -13,7 +13,7 @@
 
 This is a beginner-level tutorial. It assumes you have basic understanding of Python programming language (basic syntax: variables, loops, conditional statements, classes). If you are interested in creating a Reddit bot but haven't created one before, you may find this tutorial helpful. 
 
-This bot is built using Python 3 and [PRAW](https://github.com/praw-dev/praw), "Python Reddit API Wrapper" - an open source python package that allows for simple access to Reddit's API.
+This bot is built using Python 3 and [PRAW](https://github.com/praw-dev/praw), "Python Reddit API Wrapper" - an open source python package that allows simple access to Reddit's API.
 
 
 ### Features
