@@ -61,6 +61,9 @@ https://github.com/MobileFirstLLC/first-bot-for-reddit.git
 <img src="/docs/img/clone.jpg" alt="create app" width="400" />
 </p>
 
+If you do not have git installed locally or do not know how to use git, you can
+[download this zip file](https://github.com/MobileFirstLLC/first-bot-for-reddit/archive/master.zip)
+
 
 #### 1.2. Create virtual environment 
 
