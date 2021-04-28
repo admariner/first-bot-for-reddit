@@ -1,5 +1,8 @@
+# -*- coding: utf-8 -*-
+
 import praw
-from config import CLIENT_ID, SECRET, USERNAME, PASSWORD, USER_AGENT
+from reddit.hello_world.config import \
+    CLIENT_ID, SECRET, USERNAME, PASSWORD, USER_AGENT
 
 
 class SimpleBot:
@@ -20,7 +23,8 @@ class SimpleBot:
 
     @staticmethod
     def print_intro():
-        print('\n██ ███    ███      █████')
+        print('\n')
+        print('██ ███    ███      █████')
         print('██ ████  ████     ██   ██')
         print('██ ██ ████ ██     ███████')
         print('██ ██  ██  ██     ██   ██')
@@ -30,7 +34,8 @@ class SimpleBot:
         print('██   ██ ██    ██    ██    ██')
         print('██████  ██    ██    ██    ██')
         print('██   ██ ██    ██    ██')
-        print('██████   ██████     ██    ██\n')
+        print('██████   ██████     ██    ██')
+        print('\n')
 
     @staticmethod
     def print_output_caption(text: str) -> None:
@@ -46,9 +51,11 @@ class SimpleBot:
         return input('enter subreddit name: /r/')
 
     def get_front_page(self, limit: int) -> None:
-        """
+        """Read front page posts.
+
         This method get top posts from the front page
         then displays them on the screen
+
         :param limit: number of posts to display
         """
 
@@ -60,7 +67,8 @@ class SimpleBot:
             print(str(post.score).ljust(8), post.title)
 
     def get_subreddit(self, limit: int) -> None:
-        """
+        """Get top posts from a subreddit.
+
         This method gets top posts from a specific
         subreddit and displays them on the screen
         :param limit: number of posts to display
@@ -77,11 +85,11 @@ class SimpleBot:
             print(str(post.score).ljust(8), post.title)
 
     def post_reply(self) -> None:
-        """
+        """Reply to post.
+
         This method gets a random post from a specific
         subreddit, then prompts for reply and posts
-        that reply
-        :return:
+        that reply.
         """
 
         # ask user for subreddit

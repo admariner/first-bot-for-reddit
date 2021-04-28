@@ -1,4 +1,4 @@
-from reddit_bot import SimpleBot
+from reddit.hello_world import SimpleBot
 
 # instantiate the bot
 bot = SimpleBot()

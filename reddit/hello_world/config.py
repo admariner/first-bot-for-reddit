@@ -21,4 +21,4 @@ PASSWORD = "ENTER YOUR REDDIT PASSWORD HERE"
 # User agent should be unique to your app
 # You can learn more about user agent value here:
 # https://github.com/reddit-archive/reddit/wiki/API
-USER_AGENT = "mac:my-first-bot:v.1.0.0 (by /u/reddit_username)"
+USER_AGENT = "mac:first-bot:v.1.0.0 (by /u/reddit_username)"
