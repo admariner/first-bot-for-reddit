@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import praw
-from reddit.hello_world.config import \
+from reddit.bots.config import \
     CLIENT_ID, SECRET, USERNAME, PASSWORD, USER_AGENT
 
 
@@ -24,17 +24,6 @@ class SimpleBot:
     @staticmethod
     def print_intro():
         print('\n')
-        print('██ ███    ███      █████')
-        print('██ ████  ████     ██   ██')
-        print('██ ██ ████ ██     ███████')
-        print('██ ██  ██  ██     ██   ██')
-        print('██ ██      ██     ██   ██')
-        print('')
-        print('██████   ██████  ████████ ██')
-        print('██   ██ ██    ██    ██    ██')
-        print('██████  ██    ██    ██    ██')
-        print('██   ██ ██    ██    ██')
-        print('██████   ██████     ██    ██')
         print('\n')
 
     @staticmethod
